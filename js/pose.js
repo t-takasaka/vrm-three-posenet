@@ -16,8 +16,8 @@
  */
 
 const videoWidth = 512;
-//const videoHeight = 512;
-const videoHeight = 288;
+const videoHeight = 512;
+//const videoHeight = 288;
 
 function isAndroid() { return /Android/i.test(navigator.userAgent); }
 function isiOS() { return /iPhone|iPad|iPod/i.test(navigator.userAgent); }
